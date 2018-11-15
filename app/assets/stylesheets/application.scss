@@ -72,6 +72,31 @@ video {
   background-image: url('coding.jpg');
 }
 
+.overlay1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #cd9557;
+  opacity: 0.7;
+  z-index: 1;
+  background-image: url('toulouse.jpg');
+}
+
+.overlay2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #cd9557;
+  opacity: 0.7;
+  z-index: 1;
+  background-image: url('paris.jpg');
+  background-position: center;
+}
+
 .masthead {
   position: relative;
   overflow: hidden;

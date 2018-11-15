@@ -1,5 +1,11 @@
+# LIEN HEROKU : http://thptoulouse.heroku.com
+
 # LE GROUPE DE TOULOUSE
 ## **Thierry**, **Paul T**, **Paul R**, **Patrick**, et notre special-guest venu de terres inconnues: **Axel**
+
+# ANALYTICS
+
+![alt text](https://ibb.co/kNL0Ef)
 
 # SCRAPPER / SPAMMER / MAILER: 
 ## Préparer sa campagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.

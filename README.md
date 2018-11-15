@@ -5,7 +5,7 @@
 
 
 # SCRAPPER / SPAMMER / MAILER: 
-## Préparer sa compagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.
+## Préparer sa campagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.
 * Dans le dossier `app/services/` se situe deux fichiers : `start_scrap_provinces.rb` et `start_sending_mails.rb`.
 * Le premier, qui peut être lancé en faisant dans la `rails console` : `StartScrapProvinces.perform`, permettra de scrapper puis de sauvegarder les 35 000(!) emails de mairies françaises de chaque département du `10` (l'Aube) au `95` (Ile-de-France) dans la database `Mail` de notre app.
 * Le deuxième, qui s'execute en faisant `StartSendingMails.new` permet d'envoyer un mail à chacune de ces mairies présente dans la DB :

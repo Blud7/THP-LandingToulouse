@@ -4,9 +4,10 @@
 * Acquisition : Axel, Paul T-D
 
 
-# SCRAPPER / SPAMMER / MAILER ==> Préparer sa compagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.
+# SCRAPPER / SPAMMER / MAILER: 
+# Préparer sa compagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.
 
-* Dans les dossier app/services/ se situe deux fichiers : `start_scrap_provinces.rb` et `start_sending_mails.rb`.
+* Dans le dossier app/services/ se situe deux fichiers : `start_scrap_provinces.rb` et `start_sending_mails.rb`.
 * Le premier, qui peut être lancé en faisant dans la console `rails console` : `StartScrapProvinces.perform`, permettra de sauvegarder les quelques 35 000(!) emails de mairies françaises de chaque département du `10` (l'Aube) au `95` (Ile-de-France) dans la database `Mail`.
 * Le deuxième, permet d'envoyer un mail à chacune de ces mairies présente dans la DB :
 ``` Madame, Monsieur, 

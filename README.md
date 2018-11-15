@@ -1,4 +1,7 @@
-# LIEN HEROKU : http://thptoulouse.heroku.com
+# LIENS HEROKU : 
+# http://thptoulouse.heroku.com
+# http://thptoulouse.heroku.com/index1
+# http://thptoulouse.heroku.com/index2
 
 # LE GROUPE DE TOULOUSE
 ## **Thierry**, **Paul T**, **Paul R**, **Patrick**, et notre special-guest venu de terres inconnues: **Axel**
@@ -18,7 +21,7 @@
 * Le deuxième, qui s'execute en faisant `StartSendingMails.new` permet d'envoyer un mail à chacune de ces mairies présente dans la DB :
 ``` 
 Madame, Monsieur, 
-    Nous sommes un groupe d'étudiants à The Hacking Project, une formation en 3 mois pour apprendre le code informatique, qui se déroule dans chaque grande ville de France. Afin de permettre d'expandre notre grande famille, nous avons créé un site qui vous présente cette experience hors-du-commun à cette adresse: proutpataprout.com. N'hésitez pas à jeter un coup d'oeil, chaque petite visite nous aide déjà grandement!
+    Nous sommes un groupe d'étudiants à The Hacking Project, une formation en 3 mois pour apprendre le code informatique, qui se déroule dans chaque grande ville de France. Afin de permettre d'expandre notre grande famille, nous avons créé un site qui vous présente cette experience hors-du-commun à cette adresse: \"http://thptoulouse.heroku.com\". N'hésitez pas à jeter un coup d'oeil, chaque petite visite nous aide déjà grandement!
     Cordialement, 
     L'équipe de Toulouse de The Hacking Project. 
 ```

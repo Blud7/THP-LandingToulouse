@@ -22,5 +22,3 @@ Madame, Monsieur,
     Cordialement, 
     L'équipe de Toulouse de The Hacking Project. 
 ```
-* Résultat obtenu :
-

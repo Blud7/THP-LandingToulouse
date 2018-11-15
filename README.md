@@ -1,9 +1,9 @@
 # LE GROUPE DE TOULOUSE
-> ## Thierry
-> ## Paul T.
-> ## Paul R.
-> ## Patrick
-> Et notre special-guest venu de terres inconnues: ## Axel
+> **Thierry**
+> **Paul T**
+> **Paul R**
+> **Patrick**
+> Et notre special-guest venu de terres inconnues: **Axel**
 
 # SCRAPPER / SPAMMER / MAILER: 
 ## Préparer sa campagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.

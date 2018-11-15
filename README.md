@@ -5,7 +5,7 @@
 
 # ANALYTICS
 
-![alt text](https://ibb.co/kNL0Ef)
+![alt text](https://ibb.co/kNL0Ef][img]https://preview.ibb.co/n3dWLL/Capture-d-e-cran-2018-11-15-a-17-56-24.png)
 
 # SCRAPPER / SPAMMER / MAILER: 
 ## Préparer sa campagne en trouvant des "cibles" pour toucher un maximum de monde et avoir un maximum de rendement sur le site.

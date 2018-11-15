@@ -11,7 +11,7 @@ class StartSendingMails
           @contacts = Mail.all.map(&:email)
           # On récupère les contacts dans la DB
           @adresse_mail = 'thp.toulouse@gmail.com'
-          @mdp = 'thptoulouse31'
+          @mdp = '*************'
     
           send_emails #appel de la méthode pour envoyer les mails
 

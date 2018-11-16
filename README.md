@@ -25,3 +25,4 @@ Madame, Monsieur,
     Cordialement, 
     L'équipe de Toulouse de The Hacking Project. 
 ```
+* Enfin, un bot twitter est intégré au programme, il ne suffit que de lui mettre les paramètres heroku scheduler pour le faire tourner jounalièrement afin qu'il envoit un tweet à dix pages twitter correspondant à la recherche "ecole esc". Si vous remplissez des credentials, le code peut être lancé avec TwitterBot.new.spammy_spam dans l'irb.

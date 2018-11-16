@@ -1,7 +1,7 @@
 # LIENS HEROKU : 
-# http://thptoulouse.heroku.com
-# http://thptoulouse.heroku.com/index1
-# http://thptoulouse.heroku.com/index2
+# https://landingtoulouse.herokuapp.com/
+# https://landingtoulouse.herokuapp.com/index1
+# https://landingtoulouse.herokuapp.com/index2
 
 # LE GROUPE DE TOULOUSE
 ## **Thierry**, **Paul T**, **Paul R**, **Patrick**, et notre special-guest venu de terres inconnues: **Axel**

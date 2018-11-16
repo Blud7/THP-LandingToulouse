@@ -5,6 +5,7 @@ ruby '2.5.1'
 
 gem 'jquery-rails'
 
+gem 'twitter'
 gem 'bootstrap'
 gem 'nokogiri'
 gem 'gmail'
